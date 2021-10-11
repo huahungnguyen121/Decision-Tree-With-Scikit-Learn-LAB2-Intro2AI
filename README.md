@@ -9,4 +9,4 @@
 - Install GraphViz, please visit [here](https://graphviz.org/)
 - On Windows using
 ```python main.py```
-- For more details, please read the pdf file in doc/
+- For more details, please read the [pdf file](doc/2021-CSC14003-19CLC-Lab02.pdf)
